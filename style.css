@@ -1,0 +1,493 @@
+body {
+    font-family: 'Courier New', Courier, monospace; ;
+    color: aliceblue;
+}
+
+.Logo{
+    position: relative;
+    z-index: 2;
+    margin-right: 480px;
+    margin-left: 20px ;
+    display: inline-block;
+    vertical-align: middle;
+}
+.Logooo{
+    position: relative;
+    z-index: 2;
+    margin-right: 445px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.Logoo{
+    position: relative;
+    z-index: 2;
+    margin-right: 835px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.menu{
+    position: relative;
+    z-index: 2;
+    margin-right: 400px;
+    padding-top: 2px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.menu li{
+    z-index: 2;
+    position: relative;
+
+    vertical-align: middle;
+    display: inline-block;
+    margin-right: 25px;
+}
+.gre{
+    background: #354251;
+}
+header{
+    z-index: 2;
+    position: relative;
+    
+    vertical-align: middle;
+    display: flex;
+    justify-content: center;
+    background-color: grey;
+    margin-right: 200px;
+    margin-left: 200px;
+    border-radius: 15px;
+}
+
+.menu a{
+    z-index: 2;
+    position: relative;
+    vertical-align: middle;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    transition: 0.4s ease; 
+}
+.Back{
+    margin-left: -328px;
+}
+.Back3{
+    margin-left: -328px;
+}
+.menu a:hover{
+    transition: 0.3s ease;
+    color: white;
+    background-color: red;
+    box-shadow: 1px 1px 6px 5px rgba(0, 0, 0, 0.79);
+}
+
+.bg{
+    position: absolute;
+    z-index: 1;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    filter: blur(10px);
+    background: url(https://files.facepunch.com/paddy/20220530/trio_players.jpg);
+    background-size: cover;
+}
+.gg{
+    position: absolute;
+    z-index: 1;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    filter: blur(10px);
+    background: url(https://i.ytimg.com/vi/_5hRR-_kBY8/maxresdefault.jpg);
+    background-size: cover;
+}
+.ggg{
+    position: absolute;
+    z-index: 1;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    filter: blur(10px);
+    background: url(https://pbs.twimg.com/media/GNTZzSGXcAEoxeX.jpg:large);
+    background-size: cover;
+}
+
+.platform{
+    z-index: 2;
+    position: relative;
+    
+    background-color: #1F2123;
+    display: flex;
+    margin: 100px;
+    opacity: 100%;
+    border-radius: 15px;
+    opacity: 90%; 
+}
+.carts{
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+}
+.carts li{
+    list-style: none;
+    float: left;
+    margin: 80px;
+}
+.tubl{
+    z-index: 2;
+    display: flex;
+    text-align: center;
+}
+.tubl2{
+    z-index: 2;
+    display: flex;
+    text-align: center;
+}
+table{
+    margin-top: 100px;
+    z-index: 2;
+    display:block;
+    opacity: 95%;
+    margin-left: -306px;
+    border-spacing: 0 0px;
+}
+
+.soloma{
+    margin-left: 65px;
+}
+.solomka{
+    margin-left: 65px;
+}
+.solom{
+    z-index: 2;
+    display: block;
+    margin-left: 885px;
+    margin-top: -50px;
+}
+.tttt{
+    margin-top: 130px;
+    border-color: black;
+    border-spacing: 0 0px;
+    opacity: 90%;
+    text-align: left;
+    margin-left: -630px;
+}
+
+.solomoo{
+    z-index: 2;
+    display: block;
+    margin-left: 825px;
+    margin-top: -110px;
+    opacity: 100%;
+}
+.plott{
+    z-index: 2;
+    position: relative;
+    
+    background-color: rgb(94, 94, 94);
+    display: flex;
+    margin: 100px;
+    margin-bottom: -100px;
+    border-radius: 15px;
+    opacity: 90%;
+}
+.phott{
+    float: left;
+    border-radius: 5px;
+}
+.plott ul{
+    list-style: none;
+    float: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.upio{
+    float: left;
+}
+.te{
+    margin-left: 500px;
+    font-size: 22px;
+}
+.plotte{
+    z-index: 2;
+    position: relative;
+    
+    background-color: rgb(94, 94, 94);
+    display: flex;
+    margin: 200px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-bottom: 100px;
+    border-radius: 15px;
+    opacity: 90%;
+}
+.plotte ul{
+    list-style: none;
+    margin-left: 500px;
+    padding-top: 100px;
+    font-size: 22px;
+    float: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.texx{
+    color: black;
+    font-size: 22px
+}
+.steam{
+    color: aqua;
+    text-decoration: none;
+}
+.steam:hover{
+    color: rgb(16, 187, 16);
+    text-decoration: none;
+}
+.platformoo{
+    z-index: 2;
+    position: relative;
+    
+    background-color: #1F2123;
+    display: flex;
+    margin: 100px;
+    border-radius: 15px;
+    opacity: 80%;
+}
+.platformoo li{
+    float: left;
+    list-style: none;
+    margin: 10px;
+    margin-left: 500px;
+    margin-right: -240px;
+}
+.help11{
+    width: 100px;
+    height: 100px;
+}
+.ggggg{
+    position: absolute;
+    z-index: 1;
+    filter: blur(10px);
+    background-size: cover;
+}
+.box{
+    border: 2px solid #1F2123;
+    border-radius: 10px;
+    padding: 20px;
+}
+@media screen and (max-width: 1200px){
+
+}
+@media screen and (max-width: 998px){
+
+}
+@media screen and (max-width: 576px){
+    .Logo{
+        position: relative;
+        z-index: 2;
+        margin-right: 50px;
+        vertical-align: middle;
+        float: left;
+    }
+    .Logoo{
+        position: relative;
+        z-index: 2;
+        margin-right: 180px;
+        float: left;
+        margin-left: -69px;
+        vertical-align: middle;
+    }
+    .gg{
+        position: absolute;
+        z-index: 1;
+        left: 0px;
+        top: 0px;
+        right: 0px;
+        bottom: -600px;
+        filter: blur(10px);
+        background: url(https://i.ytimg.com/vi/_5hRR-_kBY8/maxresdefault.jpg);
+        background-size: cover;
+    }
+    .Back3{
+        margin-left: -200px;
+        float: right;
+    }
+    .bg{
+    position: absolute;
+    z-index: 1;
+    left: -490px;
+    top: 0px;
+    right: -25px;
+    bottom: 0px;
+    filter: blur(10px);
+    background: url(https://files.facepunch.com/paddy/20220530/trio_players.jpg);
+    background-size: cover;
+    }
+    header{
+        z-index: 2;
+        position: relative;
+        
+        vertical-align: middle;
+        display: flex;
+        justify-content: center;
+        background-color: grey;
+        margin-right: 5px;
+        margin-left: 5px;
+        padding-top: -150px;
+        border-radius: 15px;
+    }
+    .menu a{
+        z-index: 2;
+        position: relative;
+    
+        vertical-align: middle;
+        font-size: 27px;
+        color: rgb(0, 0, 0);
+        font-family: Arial, Helvetica, sans-serif;
+        text-decoration: none;
+
+    }
+    .menu{
+        position: relative;
+        z-index: 2;
+        margin-right: 100px;
+        padding-top: 10px;
+        display: inline-block;
+        vertical-align: middle; 
+    }
+    .menu li{
+        z-index: 2;
+        position: relative;
+    
+        vertical-align: middle;
+        display: inline-block;
+        margin-right: 20px;
+    }
+    .help11{
+        width: 65px;
+        height: 65px;
+    }
+    .plotte{
+        z-index: 2;
+        position: relative;
+        font-size: 0px;
+        background-color: 0px;
+        display: flex;
+        margin: 1px;
+        margin-top: -300px;
+        margin-left: 301px;
+        margin-right: 300px;
+        margin-bottom: -300px;
+        border-radius: 0px;
+        opacity: 20%;
+    }
+    .plotte li{
+        font-size: 0px;
+    }
+    .texx{
+        color: black;
+        font-size: 19px
+    }
+    .te{
+        margin-left:0px;
+        margin-top: 250px;
+        font-size: 19px;
+    }
+    .plott{
+        z-index: 2;
+        position: relative;
+        
+        background-color: rgb(94, 94, 94);
+        display: flex;
+        margin: 100px;
+        margin-bottom: -100px;
+        border-radius: 15px;
+        padding-bottom: 150px;
+        opacity: 90%;
+    }
+    .box{
+        border: 0px;
+        border-radius: 0px;
+        padding: 0px;
+    }
+    .help12{
+        width: 100px;
+        height: 100px;
+    }
+    .platformoo{
+        z-index: 2;
+        position: relative;
+        
+        background-color: #1F2123;
+        display: flex;
+        margin: 30px;
+        margin-bottom: -300px;
+        border-radius: 15px;
+        opacity: 80%;
+    }
+    .platformoo li{
+        float: left;
+        list-style: none;
+        margin: 10px;
+        margin-left: 100px;
+        margin-right: -40px;
+    }
+    .solomoo{
+        z-index: 2;
+        display: block;
+        margin-left: 200px;
+        margin-top: -110px;
+        opacity: 100%;
+    }
+    .solomooo{
+        width: 120px;
+        height: 120px;
+    }
+    .tttt{
+        margin-top: 130px;
+        border-color: black;
+        border-spacing: 0 0px;
+        opacity: 90%;
+        text-align: left;
+        margin-left: -590px;
+    }
+    table{
+        margin-top: 110px;
+        z-index: 2;
+        display:block;
+        opacity: 95%;
+        margin-left: -306px;
+        border-spacing: 0 0px;
+    } 
+    .soloma{
+            margin-left: 0px;
+    }
+    .solomka{
+            margin-left: 0px;
+    }
+    .ggggg{
+        position: relative;
+        z-index: 1;
+        filter: blur(10px);
+        background-size: cover;
+    }
+    .uuuu{
+        float: left;
+        padding-left: -200px;
+    }
+
+    .Back{
+        margin-left: -200px;
+        float: right;
+    }
+    .solom{
+        z-index: 2;
+        display: block;
+        margin-left: 225px;
+        margin-top: -100px;
+        padding-top: -600px;
+    }
+    .frfr{
+        margin-right: 50px;
+    }
+}
